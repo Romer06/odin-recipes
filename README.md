@@ -1,1 +1,3 @@
 # odin-recipes
+well that was pretty fun and informative
+Already knew some basic html but still there was alot i didn't know like the tabnapping , absolute and relative link , file structure and most importantly git.There's still a lot idk about git but i'm familiar with the workflow now  so it's not that bad even though it's exhausting to stage and committ now and then , so yea that's it.All the best to my future self!! continue to growwww!!
